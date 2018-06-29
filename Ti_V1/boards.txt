@@ -1,4 +1,4 @@
-arduino_due_x.name=Ti Board V1.0 (Native USB Port)
+arduino_due_x.name=Ti Board V1.0 (Processor 1)
 arduino_due_x.vid.0=0x2341
 arduino_due_x.pid.0=0x003e
 arduino_due_x.vid.1=0x2A03
