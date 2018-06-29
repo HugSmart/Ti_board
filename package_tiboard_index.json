@@ -3,7 +3,7 @@
   [
     {
        "name": "Ti boards",
-       "maintainer": "Hug Smart",
+       "maintainer": "Hug Technology",
        "help": 
        {
          "online": "https://github.com/HugSmart"
@@ -18,9 +18,9 @@
              "online": "https://github.com/HugSmart"
            },
            "url": "https://github.com/HugSmart/Ti_board/raw/master/packages/Ti_board_V1.tar.bz2",
-           "checksum": "SHA-256:28C628EC504D5A8EDCF5AD3D4A45CE1FBFD68C171B388366CFEAB9666A8A43B0",
+           "checksum": "SHA-256:D55B0B90AC880D433E501FF2A54DAFECA02F2DA73DAC1FCE235322CC3F3AA31D",
            "archiveFileName": "Ti_board_V1.tar.bz2",
-           "size": "32800282",
+           "size": "16492785",
            "name": "Ti board V1.0",
            "version": "1.0",
            "architecture": "sam",
