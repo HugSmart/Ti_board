@@ -18,16 +18,16 @@
              "online": "https://github.com/HugSmart"
            },
            "url": "https://github.com/HugSmart/Ti_board/raw/master/packages/Ti_board_V1_proc1.tar.bz2",
-           "checksum": "SHA-256:85B98B4A93F77D4F548A0DBC5E2C9E5BA103FD5EE50A0218124C85F1C1595041",
+           "checksum": "SHA-256:eede71fd1f5cea833b8a10690cd8d94f06a1d874d9e5b4bb7e338274aa53c0fa",
            "archiveFileName": "Ti_board_V1_proc1.tar.bz2",
-           "size": "16492766",
-           "name": "Ti board V1.0",
+           "size": "16504598",
+           "name": "Ti board V1.1",
            "version": "1.0",
            "architecture": "sam",
            "boards": 
            [
              {
-               "name": "Ti Board V1.0 (Processor 1)"
+               "name": "Ti Board V1.1 (Processor 1)"
              }
            ],
            "toolsDependencies": [
@@ -44,7 +44,7 @@
            ]
          },
          {
-          "name": "Ti board V1.0",
+          "name": "Ti board V1.1",
           "architecture": "samd",
           "version": "1",
           "category": "Contributed",
@@ -53,7 +53,7 @@
           "checksum": "SHA-256:7A38F39D0AA96AAF0B6CF4993AA08D23B79292F2060C6DBC021098071B7E5F7C",
           "size": "896504",
           "boards": [
-            { "name": "Ti Board V1.0 (Processor 2)" }
+            { "name": "Ti Board V1.1 (Processor 2)" }
           ],
           "toolsDependencies": [
             {
