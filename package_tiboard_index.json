@@ -18,9 +18,9 @@
              "online": "https://github.com/HugSmart"
            },
            "url": "https://github.com/HugSmart/Ti_board/raw/master/packages/Ti_board_V1_proc1.tar.bz2",
-           "checksum": "SHA-256:EEDE71FD1F5CEA833B8A10690CD8D94F06A1D874D9E5B4BB7E338274AA53C0FA",
+           "checksum": "SHA-256:1B3D07206318F49439CC0A47745F77D3BBD70B426EC7CAB2B10800325CE2F38E",
            "archiveFileName": "Ti_board_V1_proc1.tar.bz2",
-           "size": "16504598",
+           "size": "16493817",
            "name": "Ti board V1.1",
            "version": "1.0",
            "architecture": "sam",
